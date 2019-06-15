@@ -1,0 +1,13 @@
+# node
+node_modules
+
+# vscode
+.vscode
+
+# jetbrains
+.idea
+
+# osx
+.DS_Store
+
+*.log
